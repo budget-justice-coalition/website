@@ -1,1 +1,7 @@
-# Budget Justice
+---
+home: true
+heroImage:
+actionText: Introduction →
+actionLink: /introduction/
+footer:
+---
