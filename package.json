@@ -1,0 +1,11 @@
+{
+  "name": "website-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/budget-justice-coalition/website.git",
+  "author": "Shailen <shailen@gettruck.co.za>",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
