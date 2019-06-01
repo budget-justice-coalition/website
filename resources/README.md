@@ -1,3 +1,11 @@
+---
+meta:
+  - property: og:title
+    content: 📃 Resources | Budget Justice
+  - property: og:description
+    content: Find some resources on South Africa's budget
+---
+
 # 📃 Resources
 
 Here are some resources for you:
