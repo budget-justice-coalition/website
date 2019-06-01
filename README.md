@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage:
-actionText: Introduction →
-actionLink: /introduction/
+actionText: About →
+actionLink: /about/
 footer:
 
 meta:
