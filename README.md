@@ -1,13 +1,22 @@
----
-home: true
-heroImage:
-actionText: About →
-actionLink: /about/
-footer:
+# budget-justice
 
-meta:
-  - property: og:title
-    content: Budget Justice
-  - property: og:description
-    content: The purpose of the Budget Justice Coalition (BJC) is to collaboratively build people's participation in and understanding of South Africa's budget and planning processes
----
+> Collaboratively building South Africa&#39;s budget and planning processes
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ yarn install
+
+# serve with hot reload at localhost:3000
+$ yarn run dev
+
+# build for production and launch server
+$ yarn run build
+$ yarn start
+
+# generate static project
+$ yarn run generate
+```
+
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
