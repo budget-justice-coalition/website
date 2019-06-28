@@ -7,7 +7,7 @@
       <h2>Our new web site is on its way.</h2>
       <p>Sign up to be notified when we launch.</p>
 
-      <form id="">
+      <form>
         <fieldset>
           <p>
             <a href="http://eepurl.com/gv5uz9" type="submit" class="button button-large-cta">Notify me</a>

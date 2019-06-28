@@ -63,5 +63,10 @@ module.exports = {
     */
     extend(config, ctx) {
     }
+  },
+  generate: {
+    minify: {
+      collapseWhitespace: false
+    }
   }
 }
