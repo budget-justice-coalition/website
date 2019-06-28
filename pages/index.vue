@@ -1,7 +1,9 @@
 <template>
   <section class="coming-soon-grid">
     <div>
-      <h1 class="coming-soon-header">Budget Justice SA</h1>
+      <h1 class="coming-soon-header">
+        Budget Justice SA
+      </h1>
       <h2>Our new web site is on its way.</h2>
       <p>Sign up to be notified when we launch.</p>
 
@@ -18,3 +20,22 @@
     </div>
   </section>
 </template>
+
+<script>
+export default {
+  head: {
+    meta: [
+      { property: 'og:url', content: 'https://budgetjusticesa.org' },
+      { property: 'og:title', content: 'Budget Justice SA Coming Soon' },
+      { property: 'og:description', content: 'Budget Justice SA web site' },
+      { property: 'og:site_name', content: 'Budget Justice SA' },
+      { property: 'og:image', content: '/svg/landing-page-illustration.svg' },
+      { name: 'twitter:card', content: 'summary' },
+      { name: 'twitter:title', content: 'Budget Justice SA Coming Soon' },
+      { name: 'twitter:description', content: 'Budget Justice SA web site' },
+      { name: 'twitter:url', content: 'https://budgetjusticesa.org' },
+      { name: 'twitter:image', content: 'https://budgetjusticesa.org' }
+    ]
+  }
+}
+</script>
