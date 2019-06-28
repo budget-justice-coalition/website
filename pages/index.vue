@@ -14,7 +14,7 @@
       </form>
     </div>
     <div>
-      <img src="/assets/svg/landing-page-illustration.svg">
+      <img src="/svg/landing-page-illustration.svg">
     </div>
   </section>
 </template>

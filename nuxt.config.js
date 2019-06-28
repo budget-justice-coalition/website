@@ -5,7 +5,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: process.env.npm_package_name || '',
+    title: 'Budget Justice SA Coming Soon',
     meta: [
       { name: 'title', content: 'Budget Justice SA Coming Soon' },
       { name: 'description', content: 'Budget Justice SA web site' },
