@@ -1,6 +1,7 @@
 // eslint-disable-next-line no-console
 console.log('Loading service worker!')
 
+// eslint-disable-next-line no-unused-vars
 const loadSW = () => {
   if (!('serviceWorker' in navigator)) {
     return false
