@@ -16,8 +16,8 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'preload', as: 'font', type: '/fonts/Montserrat-Bold.woff2', crossorigin: true },
-      { rel: 'preload', as: 'font', type: '/fonts/Montserrat-Regular.woff2', crossorigin: true },
+      { rel: 'preload', as: 'font', href: '/fonts/Montserrat-Bold.woff2', type: 'font/woff2', crossorigin: true },
+      { rel: 'preload', as: 'font', href: '/fonts/Montserrat-Regular.woff2', type: 'font/woff2', crossorigin: true },
       { rel: 'canonical', href: 'https://budgetjusticesa.org' },
       { rel: 'manifest', href: '/manifest.json' },
       { rel: 'mask-icon', href: '/svg/safari-pinned-tab.svg', color: '#5bbad5' }
