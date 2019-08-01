@@ -1,7 +1,0 @@
-{
-  "eslint.validate": [
-    "javascript",
-    { "language": "vue", "autoFix": true }
-  ],
-  "vetur.validation.template": false
-}
