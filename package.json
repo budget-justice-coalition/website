@@ -1,0 +1,11 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/budget-justice-coalition/website.git",
+  "author": "Shailen Naidoo <naidooshailen648@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hydrogen-cli": "^0.5.8"
+  }
+}
